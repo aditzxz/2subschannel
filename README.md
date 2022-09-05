@@ -11,7 +11,7 @@
 
 
 #### 𝗟𝗜𝗡𝗞 𝗗𝗘𝗣𝗟𝗢𝗬...
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Oura-Ubot/Oura-XFsub-Bot2"> <img src="https://img.shields.io/badge/Web%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/aditzxz/2subschannel.git"> <img src="https://img.shields.io/badge/Web%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 <p align="center"><a href="https://telegram.dog/XTZ_HerokuBot?start=UmV5eU5hZGEvUmV5eS1YRnN1Yi1Cb3QxIG1haW4"> <img src="https://img.shields.io/badge/Bot%20Heroku-green?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ### 𝗝𝗔𝗡𝗚𝗔𝗡 𝗟𝗨𝗣𝗔 𝗗𝗜 𝗙𝗢𝗟𝗟𝗢𝗪 𝗬𝗔 ❤
