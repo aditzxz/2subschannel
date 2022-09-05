@@ -6,7 +6,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/aditzxz/2subschannel",
+  "repository": "https://github.com/aditzxz/2subschannel.git",
   "logo": "https://telegra.ph/file/16222aa1d815bc26c950f.jpg",
   "env": {
     "TG_BOT_TOKEN": {
