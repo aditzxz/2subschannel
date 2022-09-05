@@ -1,12 +1,12 @@
 {
-  "name": "TG File Sharing Bot",
+  "name": "dua forcesubs",
   "description": "file sharing bot store posts and it can access by special links",
   "keywords": [
     "telegram",
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/Oura-Ubot/Oura-XFsub-Bot2",
+  "repository": "https://github.com/aditzxz/2subschannel",
   "logo": "https://telegra.ph/file/16222aa1d815bc26c950f.jpg",
   "env": {
     "TG_BOT_TOKEN": {
